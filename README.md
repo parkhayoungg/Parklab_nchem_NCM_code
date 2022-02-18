@@ -8,4 +8,3 @@ The raw data of TEM image should be prepared in txt. format file which contains 
 This code requires installation of numpy and matplotlib as libraries. 
 
 One can run the code by simply enter the path of raw data file at line 13 and it will return the average intensity of particle.
-// input.append(np.loadtxt("(path)", dtype='f')) 
